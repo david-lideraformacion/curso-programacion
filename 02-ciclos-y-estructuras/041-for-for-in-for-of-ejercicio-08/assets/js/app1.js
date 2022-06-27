@@ -8,7 +8,5 @@ while(valores!==''){
     if (i) {
         
     }
-    console.log(valores);
-
-
+    console.log(valores)
 }
